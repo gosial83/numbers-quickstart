@@ -1,0 +1,13 @@
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\bin\Debug\netcoreapp3.1\numbers-quickstart.exe
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\bin\Debug\netcoreapp3.1\numbers-quickstart.deps.json
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\bin\Debug\netcoreapp3.1\numbers-quickstart.runtimeconfig.json
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\bin\Debug\netcoreapp3.1\numbers-quickstart.runtimeconfig.dev.json
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\bin\Debug\netcoreapp3.1\numbers-quickstart.dll
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\bin\Debug\netcoreapp3.1\numbers-quickstart.pdb
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.csproj.AssemblyReference.cache
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.AssemblyInfoInputs.cache
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.AssemblyInfo.cs
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.dll
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.pdb
+C:\Users\Gosia\source\repos\numbers-quickstart\numbers-quickstart\obj\Debug\netcoreapp3.1\numbers-quickstart.genruntimeconfig.cache
